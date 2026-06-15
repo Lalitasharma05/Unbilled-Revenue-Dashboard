@@ -11,3 +11,6 @@ Our goal is to analyze the unbilled revenue data to track outstanding amounts,id
 * Unconfirmed unbilled is the highest risk factor, making up 84% of the confirmation status.
 * The unbilled revenue is $7.15M with an average delay of 11.8.
 * A total of $763.12K in revenue is currently stuck on hold.
+
+
+![Dashboard Preview](Unbilled_dashboard.png)
