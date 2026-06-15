@@ -1,0 +1,101 @@
+Master Customer Code,Master project Code,Customer Code,PM Mail Id,Project End Date,Project Status,Confirmation No,Milestone No,Milestone Description,Document Currency,Amount In USD,Initial Milestone Date,Rescheduled Date,Amount In KUSD,Remarks
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,7922700,D365 Promotion Price Change,EUR,119350.67,30-Sep-25,30-Oct-25,119.35067,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,25063,7922701,Oct25 Billing Milestone,EUR,133085.65,30-Oct-25,30-Oct-25,133.08565,Delivery not complete
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,7922702,Milestone 7,EUR,72311.94,30-Nov-25,7-Dec-25,72.31194,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,90823,7922703,Phase 4 Sign-off,EUR,29325.86,30-Dec-25,29-Jan-26,29.32586,Delivery not complete
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,7922704,Jan26 Billing Milestone,EUR,106890.96,30-Jan-26,1-Mar-26,106.89096,Pending Client Sign-off
+DEGRIMST,DGOPHA2,DEGRIMST_EU,john.doe,30-Jun-25,Closed,0,7165294,Mar24 Billing Milestone,EUR,80439.27,30-Mar-24,30-Mar-24,80.43927,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST_EU,john.doe,30-Jun-25,Closed,0,7165295,D365 Promotion Price Change,EUR,30870.32,30-Apr-24,14-Jun-24,30.87032,Delivery complete but pending invoice generation
+DEGRIMST,DGOPHA2,DEGRIMST_EU,john.doe,30-Jun-25,Closed,51110,7165296,Phase 3 Sign-off,EUR,102838.56,30-May-24,30-May-24,102.83856,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST_EU,john.doe,30-Jun-25,Closed,0,7165297,UAT Sign-off,EUR,122960.67,30-Jun-24,30-Jul-24,122.96067,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST_EU,john.doe,30-Jun-25,Closed,0,7165298,D365 Promotion Price Change,EUR,73971.65,30-Jul-24,13-Aug-24,73.97165,Final reconciliation pending
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,38250,7959944,Oct24 Billing Milestone,AED,19072.77,31-Oct-24,31-Oct-24,19.07277,Delivery not complete
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,0,7959945,UAT Sign-off,AED,93331.46,30-Nov-24,14-Jan-25,93.33146,Pending Client Sign-off
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,0,7959946,Dec24 Billing Milestone,AED,114627.21,31-Dec-24,30-Jan-25,114.62721,"Awaiting for PO, SO"
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,0,7959947,Phase 4 Sign-off,AED,41264.83,31-Jan-25,14-Feb-25,41.26483,Delivery not complete
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,97567,7103909,Go-Live Preparation,AED,4554.73,31-Jan-25,31-Jan-25,4.55473,Final reconciliation pending
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,60585,7103910,Phase 2 Sign-off,AED,51525.9,28-Feb-25,28-Feb-25,51.5259,Delivery complete but pending invoice generation
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7103911,Phase 3 Sign-off,AED,41489.49,31-Mar-25,31-Mar-25,41.48949,Delivery complete but pending invoice generation
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7103912,Milestone 8,AED,63026.92,30-Apr-25,30-May-25,63.02692,Final reconciliation pending
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,8167778,Milestone 5,USD,32448.86,15-Sep-24,29-Sep-24,32.44886,"Awaiting for PO, SO"
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,8167779,Milestone 6,USD,86683.57,15-Oct-24,29-Oct-24,86.68357,Delivery not complete
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,8167780,Milestone 7,USD,120259.36,15-Nov-24,15-Nov-24,120.25936,Pending Client Sign-off
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,8167781,Dec24 Billing Milestone,USD,43236.72,15-Dec-24,15-Dec-24,43.23672,Pending Client Sign-off
+TECHCORP,TCD365,TECHCORP_US,sarah.smith,28-Feb-27,On Hold,0,8221664,Dec25 Billing Milestone,USD,25514.9,28-Dec-25,4-Jan-26,25.5149,Client requested pause
+TECHCORP,TCD365,TECHCORP_US,sarah.smith,28-Feb-27,On Hold,0,8221665,Go-Live Preparation,USD,122879.65,28-Jan-26,28-Jan-26,122.87965,Client requested pause
+TECHCORP,TCD365,TECHCORP_US,sarah.smith,28-Feb-27,On Hold,70078,8221666,D365 Promotion Price Change,USD,148542.72,28-Feb-26,14-Mar-26,148.54272,Project suspended pending budget approval
+TECHCORP,TCD365,TECHCORP_US,sarah.smith,28-Feb-27,On Hold,0,8221667,D365 Promotion Price Change,USD,56584.12,28-Mar-26,28-Mar-26,56.58412,Pending scope review
+INNOCORP,INNOERP,INNOCORP_UK,ravi.kumar,31-Dec-27,Open,0,7148962,Oct26 Billing Milestone,GBP,96002.09,31-Oct-26,31-Oct-26,96.00209,Delivery not complete
+INNOCORP,INNOERP,INNOCORP_UK,ravi.kumar,31-Dec-27,Open,0,7148963,D365 Promotion Price Change,GBP,49622.12,30-Nov-26,30-Nov-26,49.62212,"Awaiting for PO, SO"
+INNOCORP,INNOERP,INNOCORP_UK,ravi.kumar,31-Dec-27,Open,0,7148964,Go-Live Preparation,GBP,104219.08,31-Dec-26,31-Dec-26,104.21908,"Awaiting for PO, SO"
+INNOCORP,INNOERP,INNOCORP_UK,ravi.kumar,31-Dec-27,Open,0,7148965,D365 Promotion Price Change,GBP,147734.37,31-Jan-27,31-Jan-27,147.73437,"Awaiting for PO, SO"
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,15250,7128627,D365 Promotion Price Change,GBP,8300.26,30-Apr-25,30-Apr-25,8.30026,Delivery not complete
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,0,7128628,Phase 2 Sign-off,GBP,31186.1,30-May-25,14-Jul-25,31.1861,Pending Client Sign-off
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,0,7128629,Milestone 7,GBP,137248.89,30-Jun-25,30-Jul-25,137.24889,Pending Client Sign-off
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,29886,7128630,Go-Live Preparation,GBP,114794.29,30-Jul-25,30-Jul-25,114.79429,Delivery not complete
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,0,7128631,D365 Promotion Price Change,GBP,131002.76,30-Aug-25,14-Oct-25,131.00276,Pending Client Sign-off
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,0,7128632,Milestone 10,GBP,104503.19,30-Sep-25,30-Oct-25,104.50319,Delivery not complete
+MEGASYS,MEGAHRMS,MEGASYS_AP,himani.abhilipsa,30-Sep-28,Open,0,7797194,Go-Live Preparation,USD,23625.1,30-Jul-27,30-Jul-27,23.6251,"Awaiting for PO, SO"
+MEGASYS,MEGAHRMS,MEGASYS_AP,himani.abhilipsa,30-Sep-28,Open,0,7797195,Aug27 Billing Milestone,USD,102389.88,30-Aug-27,14-Oct-27,102.38988,Pending Client Sign-off
+MEGASYS,MEGAHRMS,MEGASYS_AP,himani.abhilipsa,30-Sep-28,Open,0,7797196,D365 Promotion Price Change,USD,30114.6,30-Sep-27,14-Oct-27,30.1146,"Awaiting for PO, SO"
+MEGASYS,MEGAHRMS,MEGASYS_AP,himani.abhilipsa,30-Sep-28,Open,0,7797197,D365 Promotion Price Change,USD,60293.85,30-Oct-27,30-Oct-27,60.29385,Delivery not complete
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8636819,D365 Promotion Price Change,EUR,14231.93,30-Apr-25,30-Apr-25,14.23193,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8636820,May25 Billing Milestone,EUR,10125.87,30-May-25,13-Jun-25,10.12587,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8636821,D365 Promotion Price Change,EUR,74281.29,30-Jun-25,30-Jun-25,74.28129,Pending Client Sign-off
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8636822,Go-Live Preparation,EUR,54016.88,30-Jul-25,30-Jul-25,54.01688,Pending Client Sign-off
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,8061895,Phase 1 Sign-off,EUR,83318.76,30-Oct-23,29-Nov-23,83.31876,Delivery complete but pending invoice generation
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,8061896,D365 Promotion Price Change,EUR,121237.17,30-Nov-23,30-Nov-23,121.23717,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,8061897,Phase 3 Sign-off,EUR,47060.44,30-Dec-23,30-Dec-23,47.06044,Delivery complete but pending invoice generation
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,8061898,D365 Promotion Price Change,EUR,70108.74,30-Jan-24,30-Jan-24,70.10874,Final reconciliation pending
+GMGDUBAI,GMGAMH25,GMGDUBAI,milind.mandlekar,31-Dec-25,Open,0,7155490,D365 Promotion Price Change,AED,94908.54,31-Mar-24,31-Mar-24,94.90854,Delivery not complete
+GMGDUBAI,GMGAMH25,GMGDUBAI,milind.mandlekar,31-Dec-25,Open,0,7155491,Milestone 11,AED,88254.09,30-Apr-24,30-Apr-24,88.25409,"Awaiting for PO, SO"
+GMGDUBAI,GMGAMH25,GMGDUBAI,milind.mandlekar,31-Dec-25,Open,0,7155492,Go-Live Preparation,AED,122860.51,31-May-24,7-Jun-24,122.86051,"Awaiting for PO, SO"
+GMGDUBAI,GMGAMH25,GMGDUBAI,milind.mandlekar,31-Dec-25,Open,0,7155493,UAT Sign-off,AED,126784.29,30-Jun-24,30-Jun-24,126.78429,Pending Client Sign-off
+GMGDUBAI,GMGAMH25,GMGDUBAI,milind.mandlekar,31-Dec-25,Open,0,7155494,UAT Sign-off,AED,5392.16,31-Jul-24,31-Jul-24,5.39216,Pending Client Sign-off
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7734750,Phase 1 Sign-off,AED,2357.96,31-May-24,7-Jun-24,2.35796,Final reconciliation pending
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7734751,Milestone 11,AED,121075.29,30-Jun-24,14-Jul-24,121.07529,Delivery complete but pending invoice generation
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7734752,Milestone 12,AED,142411.95,31-Jul-24,31-Jul-24,142.41195,Delivery complete but pending invoice generation
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7734753,UAT Sign-off,AED,83159.72,31-Aug-24,14-Sep-24,83.15972,Final reconciliation pending
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,73232,7734754,D365 Promotion Price Change,AED,73000.82,30-Sep-24,30-Oct-24,73.00082,Final reconciliation pending
+GMGDUBAI,GMGECOM,GMGDUBAI,milind.mandlekar,31-Mar-26,Closed,0,7734755,Phase 6 Sign-off,AED,78213.11,31-Oct-24,15-Dec-24,78.21311,Final reconciliation pending
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,68465,7378572,D365 Promotion Price Change,USD,7687.88,15-Jan-24,29-Feb-24,7.68788,Pending Client Sign-off
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,7378573,UAT Sign-off,USD,12526.41,15-Feb-24,16-Mar-24,12.52641,Pending Client Sign-off
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,7378574,Phase 3 Sign-off,USD,145904.33,15-Mar-24,22-Mar-24,145.90433,"Awaiting for PO, SO"
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,7378575,Apr24 Billing Milestone,USD,50149.28,15-Apr-24,29-Apr-24,50.14928,"Awaiting for PO, SO"
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,7378576,Milestone 14,USD,20788.75,15-May-24,29-Jun-24,20.78875,Pending Client Sign-off
+TECHCORP,TCCRM25,TECHCORP,sarah.smith,15-Nov-25,Open,0,7378577,Milestone 15,USD,124124.21,15-Jun-24,15-Jun-24,124.12421,"Awaiting for PO, SO"
+TECHCORP,TCD365,TECHCORP,sarah.smith,28-Feb-27,On Hold,0,7264417,Phase 1 Sign-off,USD,143330.79,28-Apr-25,28-Apr-25,143.33079,Pending scope review
+TECHCORP,TCD365,TECHCORP,sarah.smith,28-Feb-27,On Hold,0,7264418,D365 Promotion Price Change,USD,109080.69,28-May-25,28-May-25,109.08069,Pending scope review
+TECHCORP,TCD365,TECHCORP,sarah.smith,28-Feb-27,On Hold,0,7264419,Phase 3 Sign-off,USD,49381.72,28-Jun-25,28-Jun-25,49.38172,Pending scope review
+TECHCORP,TCD365,TECHCORP,sarah.smith,28-Feb-27,On Hold,0,7264420,D365 Promotion Price Change,USD,100359.71,28-Jul-25,28-Jul-25,100.35971,Project suspended pending budget approval
+TECHCORP,TCD365,TECHCORP,sarah.smith,28-Feb-27,On Hold,35038,7264421,Phase 5 Sign-off,USD,4397.31,28-Aug-25,4-Sep-25,4.39731,Project suspended pending budget approval
+TECHCORP,TCD365,TECHCORP,sarah.smith,28-Feb-27,On Hold,0,7264422,D365 Promotion Price Change,USD,3047.79,28-Sep-25,12-Nov-25,3.04779,Client requested pause
+INNOCORP,INNOERP,INNOCORP,ravi.kumar,31-Dec-27,Open,74043,7484838,Go-Live Preparation,GBP,135112.62,31-Mar-26,31-Mar-26,135.11262,"Awaiting for PO, SO"
+INNOCORP,INNOERP,INNOCORP,ravi.kumar,31-Dec-27,Open,0,7484839,Phase 2 Sign-off,GBP,82030.45,30-Apr-26,30-May-26,82.03045,"Awaiting for PO, SO"
+INNOCORP,INNOERP,INNOCORP,ravi.kumar,31-Dec-27,Open,0,7484840,UAT Sign-off,GBP,48096.26,31-May-26,14-Jun-26,48.09626,"Awaiting for PO, SO"
+INNOCORP,INNOERP,INNOCORP,ravi.kumar,31-Dec-27,Open,99180,7484841,Go-Live Preparation,GBP,34773.36,30-Jun-26,14-Jul-26,34.77336,Delivery not complete
+INNOCORP,INNOERP,INNOCORP,ravi.kumar,31-Dec-27,Open,0,7484842,Jul26 Billing Milestone,GBP,27050.33,31-Jul-26,31-Jul-26,27.05033,Delivery not complete
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,84555,8462046,Milestone 10,GBP,110863.08,30-Nov-24,14-Dec-24,110.86308,Delivery not complete
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,29520,8462047,Milestone 11,GBP,70593.67,30-Dec-24,30-Dec-24,70.59367,Pending Client Sign-off
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,21100,8462048,D365 Promotion Price Change,GBP,2395.89,30-Jan-25,13-Feb-25,2.39589,Delivery not complete
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,0,8462049,Phase 4 Sign-off,GBP,44589.33,28-Feb-25,30-Mar-25,44.58933,Pending Client Sign-off
+INNOCORP,INNOUPG,INNOCORP,ravi.kumar,31-Aug-26,Open,0,8462050,Go-Live Preparation,GBP,20607.6,30-Mar-25,30-Mar-25,20.6076,Pending Client Sign-off
+MEGASYS,MEGAHRMS,MEGASYS,himani.abhilipsa,30-Sep-28,Open,0,7742257,D365 Promotion Price Change,USD,80353.92,30-Jan-27,13-Feb-27,80.35392,"Awaiting for PO, SO"
+MEGASYS,MEGAHRMS,MEGASYS,himani.abhilipsa,30-Sep-28,Open,0,7742258,D365 Promotion Price Change,USD,145612.13,28-Feb-27,28-Feb-27,145.61213,Delivery not complete
+MEGASYS,MEGAHRMS,MEGASYS,himani.abhilipsa,30-Sep-28,Open,0,7742259,D365 Promotion Price Change,USD,101465.44,30-Mar-27,30-Mar-27,101.46544,"Awaiting for PO, SO"
+MEGASYS,MEGAHRMS,MEGASYS,himani.abhilipsa,30-Sep-28,Open,0,7742260,Go-Live Preparation,USD,120951.85,30-Apr-27,30-Apr-27,120.95185,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8533318,Go-Live Preparation,EUR,31596.72,31-Aug-24,7-Sep-24,31.59672,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8533319,UAT Sign-off,EUR,37723.78,30-Sep-24,14-Nov-24,37.72378,Pending Client Sign-off
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8533320,UAT Sign-off,EUR,3729.12,31-Oct-24,31-Oct-24,3.72912,"Awaiting for PO, SO"
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8533321,Phase 4 Sign-off,EUR,35160.68,30-Nov-24,7-Dec-24,35.16068,Delivery not complete
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,11251,8533322,UAT Sign-off,EUR,88853.22,31-Dec-24,31-Dec-24,88.85322,Pending Client Sign-off
+DEGRIMST,DGOMASTR,DEGRIMST_EU,himani.abhilipsa,31-Dec-26,Open,0,8533323,Go-Live Preparation,EUR,104949.43,31-Jan-25,31-Jan-25,104.94943,Pending Client Sign-off
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,7099931,Milestone 15,EUR,14453.08,28-Feb-23,28-Feb-23,14.45308,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,7099932,UAT Sign-off,EUR,109592.88,28-Mar-23,28-Mar-23,109.59288,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,7099933,Phase 3 Sign-off,EUR,92774.61,28-Apr-23,5-May-23,92.77461,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,7099934,Phase 4 Sign-off,EUR,68822.01,28-May-23,28-May-23,68.82201,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,7099935,UAT Sign-off,EUR,49963.73,28-Jun-23,12-Aug-23,49.96373,Final reconciliation pending
+DEGRIMST,DGOPHA2,DEGRIMST,john.doe,30-Jun-25,Closed,0,7099936,Jul23 Billing Milestone,EUR,96446.4,28-Jul-23,11-Aug-23,96.4464,Final reconciliation pending
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,10428,7856861,Go-Live Preparation,AED,2278.27,30-Nov-23,7-Dec-23,2.27827,Pending Client Sign-off
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,0,7856862,Milestone 16,AED,75644.97,30-Dec-23,30-Dec-23,75.64497,Delivery not complete
+GMGDUBAI,GMGAMH25,GMGDUBAI_ME,milind.mandlekar,31-Dec-25,Open,0,7856863,D365 Promotion Price Change,AED,47773.38,30-Jan-24,30-Jan-24,47.77338,Pending Client Sign-off
